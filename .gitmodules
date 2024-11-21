@@ -2,3 +2,39 @@
 	path = atividade1/atividade
 	url = https://github.com/1footguy/atividade1-soul-olx.git
 	branch = main
+[submodule "atividade2"]
+	path = atividade2
+	url = https://github.com/1footguy/atividade2-soul-olx.git
+	branch = main
+[submodule "atividade3"]
+	path = atividade3
+	url = https://github.com/1footguy/atividade3-soul-olx.git
+	branch = main
+[submodule "atividade4"]
+	path = atividade4
+	url = https://github.com/1footguy/atividade4-soul-olx.git
+	branch = main
+[submodule "atividade5]"]
+	path = atividade5]
+	url = https://github.com/1footguy/atividade5-soul-olx.git
+	branch = main
+[submodule "atividade5"]
+	path = atividade5
+	url = https://github.com/1footguy/atividade5-soul-olx.git
+	branch = main
+[submodule "atividade6"]
+	path = atividade6
+	url = https://github.com/1footguy/atividade6-soul-olx.git
+	branch = main
+[submodule "atividade7"]
+	path = atividade7
+	url = https://github.com/1footguy/atividade7-soul-olx.git
+	branch = main
+[submodule "atividade8"]
+	path = atividade8
+	url = https://github.com/1footguy/atividade8-soul-olx.git
+	branch = main
+[submodule "atividade9"]
+	path = atividade9
+	url = https://github.com/1footguy/atividade9-soul-olx.git
+	branch = main
