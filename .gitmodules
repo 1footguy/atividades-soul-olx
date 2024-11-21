@@ -1,0 +1,4 @@
+[submodule "atividade1/atividade"]
+	path = atividade1/atividade
+	url = https://github.com/1footguy/atividade1-soul-olx.git
+	branch = main
