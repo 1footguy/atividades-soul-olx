@@ -38,3 +38,11 @@
 	path = atividade9
 	url = https://github.com/1footguy/atividade9-soul-olx.git
 	branch = main
+[submodule "atividade10"]
+	path = atividade10
+	url = https://github.com/1footguy/atividade10-soul-olx.git
+	branch = main
+[submodule "atividade11"]
+	path = atividade11
+	url = https://github.com/1footguy/atividade11-soul-olx.git
+	branch = main
